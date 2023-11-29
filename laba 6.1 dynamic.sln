@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34024.191
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "laba 6.1 dynamic", "laba 6.1 dynamic\laba 6.1 dynamic.vcxproj", "{56D3E9E3-7168-4F36-996D-CB4EE756456C}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Debug|x64.ActiveCfg = Debug|x64
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Debug|x64.Build.0 = Debug|x64
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Debug|x86.ActiveCfg = Debug|Win32
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Debug|x86.Build.0 = Debug|Win32
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Release|x64.ActiveCfg = Release|x64
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Release|x64.Build.0 = Release|x64
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Release|x86.ActiveCfg = Release|Win32
+		{56D3E9E3-7168-4F36-996D-CB4EE756456C}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9578B125-D265-423A-AFBD-A7106573EDAF}
+	EndGlobalSection
+EndGlobal
