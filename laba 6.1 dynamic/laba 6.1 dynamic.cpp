@@ -14,6 +14,7 @@ int main() {
 
     int M, N;
     int evenstr = 0;
+    bool even;
 
     cout << "Введите количество строк М: ";
     cin >> M;
